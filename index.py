@@ -1,4 +1,4 @@
-"""import random
+import random
 guess_number = random.randint(1,20)
 
 print("I'm thinking of a number between 1 and 20")
@@ -12,7 +12,7 @@ while True:
         print("Your guess is too high")
     else:
         print("Good job! You guessed right number")
-        break"""
+        break
  
  
  
